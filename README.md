@@ -12,7 +12,7 @@ A tool that generates strong, random passwords based on user-selected criteria.
 - Simple CLI interface
 
 ## 📄 Demo
-![Password Generator Demo](screenshots/ui_screenshot.png)
+![Password Generator Demo](ui_screenshot.png)
 
 ## 🛠️ Tech Stack
 - Python 3
